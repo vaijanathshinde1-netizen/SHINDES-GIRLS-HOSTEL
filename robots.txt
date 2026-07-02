@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vaijanathshinde1-netizen.github.io/SHINDES-GIRLS-HOSTEL/sitemap.xml
